@@ -1,5 +1,5 @@
 from datetime import datetime, timedelta
-from auxiliares import constantes
+from AUXILIARES import constantes
 import detalle_libro
 import usuario
 
